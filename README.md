@@ -22,6 +22,8 @@ I am Ishrat Amin, an inquisitive learner of Finance, Quantitative Analysis, Busi
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.aminishrat414@gmail.com)
 [![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/ishratamin)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishratamin&label=Profile%20views&color=0e75b6&style=flat" alt="ishratamin" /> </p>
+
 #### 👨‍💻 My other profile:
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Adit-blue)](https://www.kaggle.com/ishratamin)
